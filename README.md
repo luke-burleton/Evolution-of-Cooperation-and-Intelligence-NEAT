@@ -11,7 +11,7 @@ The gradients of the selection for intelligence and identified pure strategy fre
 on average, higher intelligence and cooperation levels were observed in ISD simulations, which is consistent with past research. Lastly, parameter choice
 was observed to cause various shifts in results within both ISD and IPD simulations. All of my findings reinforce the importance of the choices made in computational model implementations, so that results obtained can have biological relevance.
 
-Of course, feel free to download, run and tweak the various notebooks and parameters to see if you find differing results! Be warned, run times can be EXTREMELY long (~10-12hrs depending on computing power), especially at large numbers of generations.
+Of course, feel free to download, run and tweak the various notebooks and parameters to see if you find differing results! Be warned, run times can be EXTREMELY long (~10-12hrs depending on computing power), especially at large numbers of generations. It is recommended to start with the 'original.ipynb' notebook as this acts as a base for tweaked parameters.
 
 # Original Model
 McNally L, Brown SP, Jackson AL. Cooperation and the evolution of intelligence. Proc Biol Sci. 2012 Aug 7;279(1740):3027-34. doi: 10.1098/rspb.2012.0206. Epub 2012 Apr 11. PMID: 22496188; PMCID: PMC3385471.
