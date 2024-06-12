@@ -18,4 +18,4 @@ McNally L, Brown SP, Jackson AL. Cooperation and the evolution of intelligence. 
 https://pubmed.ncbi.nlm.nih.gov/22496188/
 
 # Neat Python
-https://neat-python.readthedocs.io/en/latest/
+Link to the NEAT-Python documentation: https://neat-python.readthedocs.io/en/latest/
